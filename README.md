@@ -1,5 +1,6 @@
 ### Hey, Welcome to me !!
   ---
+  I've yet to actually add anything here but there will be soon, just need to figure out what exactly i want to show here
   <!---
 [![HBwilliam's GitHub stats](https://github-readme-stats.vercel.app/api?username=HBwilliam)](https://github.com/anuraghazra/github-readme-stats)
 
